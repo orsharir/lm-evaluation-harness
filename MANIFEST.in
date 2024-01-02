@@ -1,1 +1,1 @@
-include lm_eval/datasets/*/*.json
+recursive-include lm_eval *.json
